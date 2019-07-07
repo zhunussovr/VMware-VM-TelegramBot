@@ -1,4 +1,4 @@
-# VMware-VM-infor-reporting
+# VMware-VM-TelegramBot
 This script allow to control VM in VMware environment. 
 It's created to solve my private task and placed it here just as my note and for sharing.
 
